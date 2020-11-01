@@ -1,7 +1,7 @@
 # Cshell
 
 > A shell implemented in C. Written as a learning project on system programming in linux.
-![Cshell_Example](images/Cshell_example.png)
+![Cshell_Example](https://github.com/IlayG01/Cshell/blob/main/images/CShell_example.png)
 
 ## Functionalities
 
