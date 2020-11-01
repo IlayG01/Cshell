@@ -7,17 +7,17 @@
 
 > All linux builting bins inside /bin/ directory & their flags.
 
-* **cd**  - Change directory
+* **cd** 
 
-* **pwd** - Present Working directory
+* **pwd**
 
-* **mkdir <dir>** - Make a directory
+* **mkdir <dir>** 
 
-* **rmdir <dir>** - Remove the directory 
+* **rmdir <dir>** 
 
-* **ls** - List contents of pwd
+* **ls** 
 
-* **cp <file1> <file2>** - Copy contents of file1 to file2; only if file1 was more recently modified. Create file2 if not present already.
+* **cp <file1> <file2>**
 
 > Redirection
 
@@ -57,7 +57,7 @@
 
 <pre style="background: rgb(238, 238, 238); border: 1px solid rgb(204, 204, 204); padding: 5px 10px;">
 make
-./Cshell</pre>r
+./Cshell</pre>
 
 ## Credit
 > Ilay Gilman
